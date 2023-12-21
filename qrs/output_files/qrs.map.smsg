@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at qrs.v(23): always construct contains both blocking and non-blocking assignments File: F:/Software/Quartus_code/qrs/qrs.v Line: 23
+Warning (10268): Verilog HDL information at qrs.v(148): always construct contains both blocking and non-blocking assignments File: F:/Software/Quartus_code/qrs/qrs.v Line: 148
