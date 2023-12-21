@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at bandpass.v(19): always construct contains both blocking and non-blocking assignments File: F:/Software/Quartus_code/bandpass/bandpass.v Line: 19
+Warning (10268): Verilog HDL information at bandpass.v(77): always construct contains both blocking and non-blocking assignments File: F:/Software/Quartus_code/bandpass/bandpass.v Line: 77
